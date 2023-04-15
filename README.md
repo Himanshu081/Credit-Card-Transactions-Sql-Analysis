@@ -9,8 +9,8 @@ The purpose of this  analysis is to visualize data that will help readers unders
 <br>
 
 ### Case Study Questions :
-1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
-2- write a query to print highest spend month and amount spent in that month for each card type
+1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends <br>
+2- write a query to print highest spend month and amount spent in that month for each card type<br>
 3- write a query to print the transaction details(all columns from the table) for each card type when
 it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p one for each card type)
 4- write a query to find city which had lowest percentage spend for gold card type
